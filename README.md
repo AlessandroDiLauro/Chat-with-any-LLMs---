@@ -29,9 +29,9 @@ If you're interested in diving deeper into Gradio and AI application development
 
 ## Links
 
-- [Gradio Framework](Gradio Link)
-- [Mistral Model](Mistral Link)
-- [LinkedIn Post for More Details](LinkedIn Post Link)
+- [Gradio Framework](https://www.gradio.app/)
+- [Mistral Model]( https://lnkd.in/dDhxPSpP)
+- [LinkedIn Post for More Details](https://www.linkedin.com/feed/update/urn:li:activity:7117181588190167040/
 
 ## Contributing
 
