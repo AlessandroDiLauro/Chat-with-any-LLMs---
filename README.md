@@ -43,4 +43,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name] - [Your GitHub Profile]
+[Alessandro Di Lauro] - [https://github.com/AlessandroDiLauro]
